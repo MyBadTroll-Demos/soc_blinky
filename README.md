@@ -41,6 +41,19 @@ GATT Service:
 
 The classic blinky example using Bluetooth communication. From the EFR Connect mobile app, the LED controller button toggles LED0 on the board. In addition, on the board pressing or releasing BTN0 notifies the app. This is a demonstration of a simple two-way data exchange over GATT.
 
+## Code Highlights
+
+```
+
+	1. Toggle LED
+	
+	app.c: sl_bt_on_event(): "if (data_recv == 0x00)" ("// Toggle LED.")
+	
+	2. Button Response
+	
+	app,cL: app_process_action(): update/send_report_button_characteristic()
+```
+
 # Test
 
 ```
@@ -49,6 +62,14 @@ The classic blinky example using Bluetooth communication. From the EFR Connect m
 	
 	2. Tap of BTN0 illuminates the button icon
 	
+```
+
+## Results
+
+```
+
+	1. #DBB1: PASS
+
 ```
 
 # References
