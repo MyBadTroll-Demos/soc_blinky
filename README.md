@@ -69,6 +69,7 @@ The classic blinky example using Bluetooth communication. From the EFR Connect m
 ```
 
 	1. #DBB1: PASS
+	2. #50DB: PASS
 
 ```
 
