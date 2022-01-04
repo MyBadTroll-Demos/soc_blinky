@@ -2,7 +2,7 @@
 
 Justin Reina
 
-• [SoC - Blinky](file:///C:/Sw/SiliconLabs/SimplicityStudio/v5/developer/sdks/gecko_sdk_suite/v3.2/app/bluetooth/documentation/example/soc_blinky/readme.html "Getting started")
+• [SoC - Blinky](https://github.com/MyBadTroll/soc_blinky/blob/master/doc/readme.html)
 
 
 ### Summary
@@ -71,6 +71,7 @@ The classic blinky example using Bluetooth communication. From the EFR Connect m
 	1. #DBB1: PASS
 	2. #50DB: PASS
 	3. #7885: PASS
+	4. #9E9B: PASS
 
 ```
 
