@@ -2,7 +2,7 @@
 
 Justin Reina
 
-• [SoC - Blinky](https://github.com/MyBadTroll/soc_blinky/blob/master/doc/readme.html)
+• [SoC - Blinky](https://justinreina.com/troll/Code/Ref/soc_blinky/readme.html)
 
 
 ### Summary
